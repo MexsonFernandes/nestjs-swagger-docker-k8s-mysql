@@ -11,8 +11,6 @@ A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework 
 
 <p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMexsonFernandes%2Fnestjs-swagger-docker-k8s-mysql&count_bg=%2325388B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 </p>
 
 ## Description
